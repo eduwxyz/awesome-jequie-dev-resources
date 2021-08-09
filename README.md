@@ -9,8 +9,8 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
     - [Frontend](#frontend)
     - [Backend](#backend)
   - [Cursos gratuitos - Data Analytics](#cursos-gratuitos---data-analytics-)
-  - [Cursos gratuitos - Mobile](#component-management)
-  - [Cursos gratuitos - OS/Infra](#component-management)
+  - [Cursos gratuitos - Mobile](#cursos-gratuitos---mobile)
+  - [Cursos gratuitos - OS/Infra](#cursos-gratuitos---osinfra)
   - [Cursos gratuitos - UI/UX](#cursos-gratuitos-ui)
   - [Artigos - Web](#artigos-web)
   - [Artigos - Data Analytics](#artigos-data-analytics)
@@ -60,7 +60,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Python do Básico ao Avançado](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
-## Cursos gratuitos - Mobile
+## Cursos gratuitos - Mobile 📱
 
 - [Desenvolvedor Android Iniciante](https://www.udemy.com/course/desenvolvedor-android-iniciante/) - Aprenda conceitos fundamentais do Android para criar aplicativos.
 
@@ -68,7 +68,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [React Native - Aprenda rápido](https://www.udemy.com/course/react-native-aprendendo-rapido/) - Comece a desenvolver aplicativos o mais rápido possível.
 
-## Cursos gratuitos - OS/Infra
+## Cursos gratuitos - OS/Infra 💻
 
 - [Introdução ao Linux](https://www.udemy.com/course/linux-ubuntu/) - Conheça o Linux e aprenda utilizar o terminal e construir programas com Shell Script.
 
@@ -78,7 +78,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Windows Server 2019](https://www.udemy.com/course/windows-server-2019/) - Instalação e domínio.
 
-## Contribuindo
+## Contribuindo 🎗
 
 Contribuições são muito bem vindas! Leia o [guia de contribuição](CONTRIBUTING.md) e veja como ajudar.
 
