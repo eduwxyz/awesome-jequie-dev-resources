@@ -33,7 +33,7 @@ Repositório destinado para disponibilizar conteúdo de desenvolvimento(devops, 
 
 ## Cursos gratuitos - Data Analytics 🎲
 
-- [Analise de dados com Python básico](#)
+- [Analise de dados com Python básico](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
 
 ## Contribuindo
 
