@@ -5,11 +5,11 @@ Repositório destinado para disponibilizar conteúdo de desenvolvimento(devops, 
 ## Índice 📖
 
 - [Awesome Jequié Dev Resources](#Awesome-Jequié-Dev-Resources)
-  - [Cursos gratuitos - Web](#package-managers)
+  - [Cursos gratuitos - Web](#cursos-gratuitos---web-)
     - [Frontend](#frontend)
     - [Backend](#backend)
-  - [Cursos gratuitos - Data Analytics](#component-management)
-  - [Cursos Mobile - Data Analytics](#component-management)
+  - [Cursos gratuitos - Data Analytics](#cursos-gratuitos---data-analytics-)
+  - [Cursos gratuitos - Mobile](#component-management)
   - [Cursos gratuitos - UI/UX](#cursos-gratuitos-ui)
   - [Artigos - Web](#artigos-web)
   - [Artigos - Data Analytics](#artigos-data-analytics)
