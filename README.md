@@ -1,6 +1,6 @@
-# Awesome Jequié Dev Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
+# Awesome Jequié Dev Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/topics/awesome)
 
-Repositório destinado para disponibilizar conteúdo de desenvolvimento(devops, IA, segurança etc) gratuito ou de baixo custo para os devs de Jequié e região.
+Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segurança etc) gratuito ou de baixo custo para os devs de Jequié e região.
 
 ## Índice 📖
 
@@ -33,7 +33,10 @@ Repositório destinado para disponibilizar conteúdo de desenvolvimento(devops, 
 
 ## Cursos gratuitos - Data Analytics 🎲
 
-- [Analise de dados com Python básico](#)
+- [Analise de dados com Python básico](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
+- [Machine Learning com Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
+- [Modelagem de Dados COMPLETO](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD)
+- [Python do Básico ao Avançado](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
 ## Contribuindo
 
