@@ -34,6 +34,9 @@ Repositório destinado para disponibilizar conteúdo de desenvolvimento(devops, 
 ## Cursos gratuitos - Data Analytics 🎲
 
 - [Analise de dados com Python básico](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
+- [Machine Learning com Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
+- [Modelagem de Dados COMPLETO](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD)
+- [Python do Básico ao Avançado](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
 ## Contribuindo
 
