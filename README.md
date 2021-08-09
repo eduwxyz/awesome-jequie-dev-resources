@@ -1,6 +1,6 @@
 # Awesome Jequié Dev Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 
-Repositório destinado para disponibilizar conteúdo de desenvolvimento(devops, IA, segurança etc) gratuito ou de baixo custo para os devs de Jequié e região.
+Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segurança etc) gratuito ou de baixo custo para os devs de Jequié e região.
 
 ## Índice 📖
 
