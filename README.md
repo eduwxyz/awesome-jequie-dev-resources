@@ -61,6 +61,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
   - [Ruby on Rails na prática](https://www.udemy.com/course/ruby-on-rails-5-na-pratica/) - Aprenda a construir aplicações web com Ruby.
 
   - [Ruby on Rails para iniciantes](https://www.cursou.com.br/informatica/ruby-on-rails/) - Aprenda como funciona um dos frameworks mais populares e poderosos do mundo.
+  - [Playlist youtube de Node js gratuito](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Aprenda de forma clara e simples como funciona o node na pratica.
 
 ## Cursos gratuitos - Data Analytics 🎲
 
