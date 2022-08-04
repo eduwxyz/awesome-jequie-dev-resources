@@ -73,6 +73,10 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Python do Básico ao Avançado](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
+- [Excel avançado](https://www.youtube.com/playlist?list=PL-QAz5R5Rlm4IWX_sDPOwumEhh90-B61N)
+
+- [Curso Power BI](https://www.youtube.com/playlist?list=PLV-9aagMq_koV4BVilwsb99f8DwHdMLCM)
+
 ## Cursos gratuitos - Mobile 📱
 
 - [Desenvolvedor Android Iniciante](https://www.udemy.com/course/desenvolvedor-android-iniciante/) - Aprenda conceitos fundamentais do Android para criar aplicativos.
