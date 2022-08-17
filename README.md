@@ -117,6 +117,8 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Criando extensões para o Google Chrome com React](https://dev.to/tuliocalil/criando-extensoes-para-o-google-chrome-com-react-1laa) - Crie uma extensão para navegadores utilizando React!
 
+- [Material de TI do Mercado Livre](https://daniambrosio.notion.site/Material-TI-Mercado-Livre-2251384d6818434785dac4a476575995) - Todo material disponibilizado do Mercado Livre sobre escalabilidade, Design System, e afins utilizados pela empresa.
+
 ## Artigos - Data Analytics
 
 #### em andamento...
