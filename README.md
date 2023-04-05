@@ -119,6 +119,10 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Material de TI do Mercado Livre](https://daniambrosio.notion.site/Material-TI-Mercado-Livre-2251384d6818434785dac4a476575995) - Todo material disponibilizado do Mercado Livre sobre escalabilidade, Design System, e afins utilizados pela empresa.
 
+## Trilhas 
+
+- [Guia Switft](https://lucasreald.notion.site/lucasreald/Guia-Swift-820bffbbb32c4f5ca658e3ab725c12d1) - Um guia bem completo sobre a linguagem de programação open-source Swift
+
 ## Artigos - Data Analytics
 
 #### em andamento...
