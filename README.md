@@ -28,7 +28,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
   - [Html5, Css3 e Js na prática (3 projetos)](https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/) - Aprenda os três pilares do desenvolvimento web front end! <img src="https://img.shields.io/badge/certificado-nao-red">
 
-  - [React, Redux e integrações de APIS](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) - Aprenda a criar fluxos com Redux e React.  <img src="https://img.shields.io/badge/certificado-sim-green">
+  - [React, Redux e integrações de APIS](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) - Aprenda a criar fluxos com Redux e React. <img src="https://img.shields.io/badge/certificado-sim-green">
 
   - [Guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html) - Curso sobre HTML e seus fundamentos. <img src="https://img.shields.io/badge/certificado-sim-green">
 
@@ -62,10 +62,13 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
   - [Ruby on Rails para iniciantes](https://www.cursou.com.br/informatica/ruby-on-rails/) - Aprenda como funciona um dos frameworks mais populares e poderosos do mundo. <img src="https://img.shields.io/badge/certificado-nao-red">
   - [Playlist youtube de Node js gratuito](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Aprenda de forma clara e simples como funciona o node na pratica. <img src="https://img.shields.io/badge/certificado-nao-red">
+  - [Playlist youtube de Java gratuito](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) - Curso completo de Java (15+) ![](https://img.shields.io/badge/certificado-nao-red)
 
 ## Cursos gratuitos - Data Analytics 🎲
 
 - [Analise de dados com Python básico](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) <img src="https://img.shields.io/badge/certificado-nao-red">
+
+- [Analise de dados em Linguagem R](https://www.escolavirtual.gov.br/curso/325) <img src="https://img.shields.io/badge/certificado-sim-green">
 
 - [Machine Learning com Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) <img src="https://img.shields.io/badge/certificado-nao-red">
 
@@ -79,7 +82,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 ## Cursos gratuitos - Mobile 📱
 
-- [Desenvolvedor Android Iniciante](https://www.udemy.com/course/desenvolvedor-android-iniciante/) - Aprenda conceitos fundamentais do Android para criar aplicativos.  <img src="https://img.shields.io/badge/certificado-nao-red">
+- [Desenvolvedor Android Iniciante](https://www.udemy.com/course/desenvolvedor-android-iniciante/) - Aprenda conceitos fundamentais do Android para criar aplicativos. <img src="https://img.shields.io/badge/certificado-nao-red">
 
 - [PhoneGap + Android](https://www.udemy.com/course/phonegap-android-playstore/) - Crie aplicativos para Android e publique na Playstore utilizando Phonegap.<img src="https://img.shields.io/badge/certificado-nao-red">
 
@@ -91,7 +94,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Introdução ao Linux](https://www.udemy.com/course/linux-ubuntu/) - Conheça o Linux e aprenda utilizar o terminal e construir programas com Shell Script. <img src="https://img.shields.io/badge/certificado-nao-red">
 
-- [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Curso introdutório rápido e prático sobre bash.  <img src="https://img.shields.io/badge/certificado-nao-red">
+- [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Curso introdutório rápido e prático sobre bash. <img src="https://img.shields.io/badge/certificado-nao-red">
 
 - [Conceitos de programação em Shell script](https://www.udemy.com/course/conceitos-de-programacao-em-shell-script/) - Conceitos de programação com Shell Script. <img src="https://img.shields.io/badge/certificado-nao-red">
 
@@ -105,7 +108,7 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 
 - [Design Thinking](https://www.udemy.com/course/design-thinking-aplicacao-pratica-no-3o-setor/) - Conheça a metodologia Design Thinking e conheça ferramentas para colocar na prática a transformação. <img src="https://img.shields.io/badge/certificado-sim-green">
 
-- [UX / UI: Fundamentos para o design de interface](https://pt.coursera.org/learn/ux-ui-design-de-interface) - Aprenda com uma das maiores startups do Brasil, a Taqtile sobre com criar a melhor experiência para o seu usuário.  <img src="https://img.shields.io/badge/certificado-sim-green">
+- [UX / UI: Fundamentos para o design de interface](https://pt.coursera.org/learn/ux-ui-design-de-interface) - Aprenda com uma das maiores startups do Brasil, a Taqtile sobre com criar a melhor experiência para o seu usuário. <img src="https://img.shields.io/badge/certificado-sim-green">
 
 ## Artigos - Web
 
@@ -118,10 +121,6 @@ Repositório para disponibilizar conteúdo de desenvolvimento(devops, IA, segura
 - [Criando extensões para o Google Chrome com React](https://dev.to/tuliocalil/criando-extensoes-para-o-google-chrome-com-react-1laa) - Crie uma extensão para navegadores utilizando React!
 
 - [Material de TI do Mercado Livre](https://daniambrosio.notion.site/Material-TI-Mercado-Livre-2251384d6818434785dac4a476575995) - Todo material disponibilizado do Mercado Livre sobre escalabilidade, Design System, e afins utilizados pela empresa.
-
-## Trilhas 
-
-- [Guia Switft](https://lucasreald.notion.site/lucasreald/Guia-Swift-820bffbbb32c4f5ca658e3ab725c12d1) - Um guia bem completo sobre a linguagem de programação open-source Swift
 
 ## Artigos - Data Analytics
 
